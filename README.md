@@ -1,21 +1,37 @@
-## Hi there 👋
+# Hi there 👋 I'm Samir
+
+Aspiring Software Developer | Front-End Focused | HTML, CSS, Java, JavaScript, Python, React
+
+---
+
+## 🔥 GitHub Stats
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamirDeveloper&theme=dark)
+![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamirDeveloper&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirDeveloper&layout=compact&theme=dark)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamirDeveloper&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirDeveloper&layout=compact&theme=
+---
 
-<!--
-**SamiirDeveloper/SamiirDeveloper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Skills
 
-Here are some ideas to get you started:
+- HTML, CSS, Java, JavaScript, Python, React
+- Git & GitHub
+- Responsive Web Design
+- Visual Studio Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Projects
+
+- [HTML-CSS-PROJECT](https://github.com/SamirDeveloper/HTML-CSS-PROJECT) — A responsive event center landing page
+- [html-css-assignment](https://github.com/SamirDeveloper/html-css-assignment) — Beginner layout practice
+
+---
+
+## 📫 Let's Connect
+
+- LinkedIn: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/samiirdeveloper/)
+- Portfolio: [Coming Soon]
+- Email: samiirdeveloper@gmail.com
+
+---
