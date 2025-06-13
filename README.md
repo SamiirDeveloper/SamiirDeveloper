@@ -1,14 +1,14 @@
 # Hi there 👋 I'm Samir
 
-Aspiring Software Developer | Front-End Focused | HTML, CSS, Java, JavaScript, Python, React
+Software Developer | Full-Stack Developer | HTML, CSS, Java, JavaScript, TypeScript, Python, React, Flask, Java 8
 
 ---
 
 ## 🔥 GitHub Stats
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamirDeveloper&theme=dark)
-![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamirDeveloper&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamirDeveloper&layout=compact&theme=dark)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=SamiirDeveloper&theme=dark)
+![Samir's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamiirDeveloper&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamiirDeveloper&layout=compact&theme=dark)
 
 ---
 
