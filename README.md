@@ -30,7 +30,7 @@ Software Developer | Full-Stack Developer | HTML, CSS, Java, JavaScript, TypeScr
 
 ## 📫 Let's Connect
 
-- LinkedIn: [[linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)](https://www.linkedin.com/in/samiirdeveloper/)
+- LinkedIn: (https://www.linkedin.com/in/samiirdeveloper/)
 - Portfolio: [Coming Soon]
 - Email: samiirdeveloper@gmail.com
 
