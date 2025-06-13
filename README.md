@@ -15,6 +15,7 @@ Software Developer | Full-Stack Developer | HTML, CSS, Java, JavaScript, TypeScr
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=SamiirDeveloper&theme=darkhub)
 ---
 
 ## 🛠️ Skills
