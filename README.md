@@ -14,7 +14,7 @@ Software Developer | Full-Stack Developer | HTML, CSS, Java, JavaScript, TypeScr
 
 ## 🛠️ Skills
 
-- HTML, CSS, Java, JavaScript, Python, React
+- HTML, CSS, Java, JavaScript, TypeScript, Python, React, Flask, Java 8
 - Git & GitHub
 - Responsive Web Design
 - Visual Studio Code
