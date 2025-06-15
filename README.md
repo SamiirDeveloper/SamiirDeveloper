@@ -9,10 +9,10 @@
 
 ### 🎯 About Me
 
-- 👨🏾‍💻 Aspiring Full-Stack Developer passionate about building responsive and user-friendly web applications  
+- 👨🏾‍💻 Full-Stack Developer passionate about building responsive and user-friendly web applications  
 - 🌱 Currently sharpening my skills in React, TypeScript, and Java back-end development  
 - 🎯 Preparing for technical interviews and contributing to open-source projects  
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/YOUR_LINK_HERE) | Email: yourname@email.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/SamiirDeveloper) | Email: samir.mohamud88@email.com
 
 ---
 
