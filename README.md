@@ -1,8 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Samir</h1>
 
 <p align="center">
-  Software Developer | Full-Stack Developer<br>
-  HTML, CSS, Java, JavaScript, TypeScript, Python, React, Flask, Java 8
+  Software Developer | Full-Stack Engineer | Java • JavaScript • React • Python • Flask • SQL | Open to Entry-Level Roles | Focused on Scalable, User-Centric Solutions
 </p>
 
 ---
