@@ -41,7 +41,7 @@
 
 ### 🚀 Projects
 
-- [HTML-CSS-PROJECT](https://github.com/SamiirDeveloper/html-css-project) — A responsive event center landing page  
+- [HTML-CSS-PROJECT](https://github.com/SamiirDeveloper/html-css-project) — A responsive, modern webpage built using HTML and CSS. Designed with mobile-first principles and Flexbox for layout responsiveness.  
 - [html-css-assignment](https://github.com/SamiirDeveloper/html-css-assignment) — Beginner layout practice using Flexbox and semantic tags  
 
 > More projects coming soon... (Java app, React dashboard, Flask API)
